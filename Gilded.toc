@@ -1,0 +1,7 @@
+## Interface: 50100
+## Title: Gilded
+## Notes: Monitor and track guild goals and levels.
+## Version: 5.1.0.0
+## SavedVariables: Gilded_Settings
+
+Gilded.xml

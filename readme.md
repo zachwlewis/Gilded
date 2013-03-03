@@ -1,0 +1,3 @@
+_Gilded_ allows players to easily see and share guild progression. It displays the number of quests, dungeon runs, arena wins and battleground victories needed to reach the next guild level. Additionally, it uses in-game AddOn communication to alert users whenever the guild earns experience or money, making guilded play much more social and transparent.
+
+Forget about pouring time and money into a lackluster guild experience and prepare to have a _Gilded_ experience!
